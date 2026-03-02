@@ -1,1 +1,2 @@
-# ElRezeikyPharmaciesE-Commerce-Platform
+# ElRezeiky Pharmacies E-Commerce Platform
+Initial commit.
